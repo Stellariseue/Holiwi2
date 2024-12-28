@@ -43,3 +43,18 @@
 [16:05:47] [Server thread/INFO]: [GordoTulin: Set own game mode to Creative Mode]
 [16:09:10] [Server thread/INFO]: GordoTulin lost connection: Disconnected
 [16:09:10] [Server thread/INFO]: GordoTulin left the game
+[16:15:52] [Server thread/INFO]: GordoTulin[/127.85.197.40:44797] logged in with entity id 1198 at (-12.138463652017201, 88.0, -66.75165683828946)
+[16:15:52] [Server thread/INFO]: GordoTulin joined the game
+[16:18:04] [Server thread/INFO]: GordoTulin lost connection: Disconnected
+[16:18:04] [Server thread/INFO]: GordoTulin left the game
+[16:23:22] [Server thread/INFO]: Stopping the server
+[16:23:22] [Server thread/INFO]: Stopping server
+[16:23:22] [Server thread/INFO]: Saving players
+[16:23:22] [Server thread/INFO]: Saving worlds
+[16:23:22] [Server thread/INFO]: Saving chunks for level 'ServerLevel[world]'/minecraft:overworld
+[16:23:23] [Server thread/INFO]: Saving chunks for level 'ServerLevel[world]'/minecraft:the_nether
+[16:23:23] [Server thread/INFO]: Saving chunks for level 'ServerLevel[world]'/minecraft:the_end
+[16:23:23] [Server thread/INFO]: ThreadedAnvilChunkStorage (world): All chunks are saved
+[16:23:23] [Server thread/INFO]: ThreadedAnvilChunkStorage (DIM-1): All chunks are saved
+[16:23:23] [Server thread/INFO]: ThreadedAnvilChunkStorage (DIM1): All chunks are saved
+[16:23:23] [Server thread/INFO]: ThreadedAnvilChunkStorage: All dimensions are saved
